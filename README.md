@@ -4,6 +4,7 @@
 
 1. PWA Google 学习官网: https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
 2. PWA web应用模型： https://zhuanlan.zhihu.com/p/25167289?from=timeline&amp;isappinstalled=0
+3. PWA 初探：基本特性与标准现状：http://harttle.com/2017/01/28/pwa-explore.html
 
 ## 教学实践类
 
@@ -22,3 +23,5 @@
 3. [pwmetrics](https://github.com/paulirish/pwmetrics)
 
 4. [hacker new pwa](https://github.com/tastejs/hacker-news-pwas?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more)
+
+5. [paw(vuejs-templates)](https://github.com/vuejs-templates/pwa)
