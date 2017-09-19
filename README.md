@@ -14,6 +14,10 @@
 
 3. [Progressive Web Apps：响应式 Web 设计的延伸](https://julian.is/article/progressive-web-apps/)
 
+## 视频教学类
+
+1. [Building Our First PWA | Example Project](https://www.youtube.com/watch?v=I3jTvWj8JrQ&feature=em-subs_digest)
+
 ## 开源项目
 
 1. [pwa-bulid](https://github.com/pwa-builder/ManifoldJS)
