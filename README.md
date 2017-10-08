@@ -2,9 +2,10 @@
 
 ## 这里综合了现阶段progressive web app的一些学习资源，愿与君共享，喜欢的给个star
 
-1. PWA Google 学习官网: https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
-2. PWA web应用模型： https://zhuanlan.zhihu.com/p/25167289?from=timeline&amp;isappinstalled=0
-3. PWA 初探：基本特性与标准现状：http://harttle.com/2017/01/28/pwa-explore.html
+1. [PWA Google 学习官网](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+2. [PWA web应用模型](https://zhuanlan.zhihu.com/p/25167289?from=timeline&amp;isappinstalled=0)
+3. [PWA 初探：基本特性与标准现状](http://harttle.com/2017/01/28/pwa-explore.html)
+4. [使用Service Worker发送Push推送](https://juejin.im/post/59d9b38ef265da064a0f72cc)
 
 ## 教学实践类
 
